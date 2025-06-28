@@ -14,7 +14,7 @@ model = load_model('plant_disease_model.h5')
 CLASS_NAMES = ('Tomato-Bacterial_spot', 'Potato-Barly blight', 'Corn-Common_rust')
 
 # Mistral AI API configuration
-MISTRAL_API_KEY = "yQdfM8MLbX9uhInQ7id4iUTwN4h4pDLX"  # Replace with your actual API key
+MISTRAL_API_KEY = ""  # Replace with your actual API key
 MISTRAL_API_URL = "https://api.mistral.ai/v1/chat/completions"
 
 # Setting Title of App
